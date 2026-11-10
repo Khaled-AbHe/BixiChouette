@@ -1,0 +1,6 @@
+[submodule "bixi-chouette-frontend"]
+	path = bixi-chouette-frontend
+	url = https://github.com/Khaled-AbHe/bixi-chouette-frontend.git
+[submodule "bixi-chouette-backend"]
+	path = bixi-chouette-backend
+	url = https://github.com/Khaled-AbHe/bixi-chouette-backend.git
